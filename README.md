@@ -9,3 +9,5 @@ Code review/iteration on the Pipeline
 Audit trail for the Pipeline
 
 Single source of truth for the Pipeline, which can be viewed and edited by multiple members of the project.
+
+Contact Info: fatihbildirici.dev@gmail.com
